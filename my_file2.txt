@@ -1,0 +1,7 @@
+inteiro	quantitativo	qualitativo
+1	2,3	teste1
+3	4,5	teste1
+5	6,9	teste1
+7	8,1	teste2
+4	8	teste2
+10	15,7	teste2

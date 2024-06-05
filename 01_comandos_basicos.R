@@ -1,9 +1,9 @@
 # -------------------------------------------------------------------------
-# Curso "Descomplicando o R: da avers?o ? independ?ncia" - Naturaulas
+# Curso "Introdução a projetos no R" - UERN
 #
 # Prof:Alex Barbosa de Moraes
 #
-# Last update: 2021-05-27
+# Last update: 2024-06-05
 # -------------------------------------------------------------------------
 
 
