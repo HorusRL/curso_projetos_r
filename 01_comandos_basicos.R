@@ -101,6 +101,9 @@ b <- c(FALSE,TRUE)
 x <- list(n,s,b, 3) # x contem copias de n, s, b - ? um Conjunto de vetores, dataframes ou de matrizes. 
 x
 
+# Matriz
+teste <- matrix(data = c(12,20,46,38), ncol = 2)
+
 # Data-frame
 teste <- data.frame(X = 1:10, Y = c(51, 54, 61, 67, 68, 75, 77, 75, 80, 82))
 teste
